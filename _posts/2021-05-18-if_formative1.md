@@ -28,7 +28,7 @@ int main(void) {
 ~~~
 
 ### 02. 3개의 터널 통과
-![tunnul](/assets/images/tunnul.jpg]
+![tunnul](/assets/images/tunnul.jpg)
 ~~~c
 #inclue <studio.h>
 int main(void) {
