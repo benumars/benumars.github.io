@@ -28,7 +28,7 @@ int main(void) {
 ~~~
 
 ### 02. 3개의 터널 통과
-![tunnul](/assets/images/tunnul/jpg]
+![tunnul](/assets/images/tunnul.jpg]
 ~~~c
 #inclue <studio.h>
 int main(void) {
@@ -52,6 +52,7 @@ return 0;
 
 ### 03. 이 달은 며칠까지 있을까?
 ![callender1](/assets/images/callender.jpg)
+~~~c
 #include <stdio.h> 
 int main(void) { 
   int year, month; 
